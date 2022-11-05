@@ -36,7 +36,7 @@
         좋아하는 운동 : <%=hobby%> <br>
         사는 지역 : <%=city%><br>
         생일 : <%=birthdate%><br>
-        기타 자신소개 : <%=content%><br>
+        기타 자신소개 : <%=content%>
     </fieldset>
 </body>
 </html>
